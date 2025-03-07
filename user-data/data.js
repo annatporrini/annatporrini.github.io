@@ -1,15 +1,14 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
-  "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
-  "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
-  "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
+  "Hello, I'm Anna Teresa Porrini!",
+  "I am currently a Research Fellow at the Istituto Universitario di Studi Superiori (IUSS) in Pavia, where I am working on a project investigating reading difficulties in childhood, under the supervision of Dr. Matteo Greco. I earned my PhD in Cognitive Science at the University of Trento. My doctoral research project focused on the role of perspective-taking and intention-reading in the processing of implicatures during childhood, adolescence and adulthood.",
+  "My academic background is mainly in the field of linguistics. I have a Master’s degree in Linguistics and Cognitive Studies from the University of Siena. Throughout the three years of my PhD, however, I have gained independence as an experimental researcher.",
+  "My current research interests are [...].",
 ];
 
 export const skills = [
-  "JavaScript, TypeScript, Angular, AngularJS, React, HTML5, CSS, Bootstrap, Tailwind CSS",
-  "RxJS, NGXS, NGRX, WebSockets, Stencil, Storybook, Module Federation, Webpack",
-  "Jenkins, JIRA, Git",
-  "Performance Optimization, Responsive Design, Cross-Browser Compatibility",
+  "Porrini, A. T., Franchin, L., & Surian, L. (2025). Role of Theory of Mind in children’s derivation of ad hoc conversational implicatures. <em> Language Acquisition </em>. https://doi.org/10.1080/10489223.2025.2467806",
+  "Franchin, L., Porrini, A. T., & Surian, L. (2024). Ad-hoc conversational implicatures in two-year-olds. <em>Language Learning and Development</em> 20(3), 219-230. https://doi.org/10.1080/15475441.2023.2277468",
+  "Porrini, A. T., & Surian, L. (2023). The investigation of quantity implicatures during typical development: a systematic review. <em>Proceedings of ELM 2</em>, 219-228. http://doi.org/10.3765/elm.2.5361",
 ];
 
 export const experience = [
