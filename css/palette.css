@@ -1,0 +1,135 @@
+/* =======================================================
+ * Colour palette override
+ * Load AFTER css/style.css and bootstrap (see index.html).
+ * https://coolors.co/d3e5fd-336699-dea599-f4fafe-2f4858
+ * To adjust the palette later, edit only the variables below.
+ * ======================================================= */
+:root {
+	--c-sky: #d3e5fd;   /* sidebar, cards */
+	--c-blue: #336699;  /* links, buttons, icons, badges */
+	--c-rose: #dea599;  /* accents: timeline line, hover */
+	--c-mist: #f4fafe;  /* page background */
+	--c-ink: #2f4858;   /* text, footer */
+
+	--footer-bg: var(--c-ink);
+	--color: var(--c-mist);
+	--color-smooth: var(--c-mist);
+}
+
+/* Base */
+body {
+	background: var(--c-mist);
+	color: var(--c-ink);
+}
+strong {
+	color: var(--c-ink);
+}
+a {
+	color: var(--c-blue);
+}
+a:hover,
+a:active,
+a:focus {
+	color: var(--c-ink);
+}
+::selection {
+	color: #fff;
+	background: var(--c-blue);
+}
+::-webkit-selection {
+	color: #fff;
+	background: var(--c-blue);
+}
+.about-desc h3 {
+	color: var(--c-blue);
+}
+
+/* Sidebar */
+#colorlib-aside,
+body.offcanvas #colorlib-aside {
+	background: var(--c-sky);
+}
+@media screen and (max-width: 768px) {
+	#colorlib-aside {
+		background: var(--c-sky);
+	}
+}
+#colorlib-aside #colorlib-logo a {
+	color: var(--c-ink);
+}
+#colorlib-aside #colorlib-main-menu ul li a {
+	color: var(--c-ink);
+}
+#colorlib-aside #colorlib-main-menu ul li a:hover {
+	color: var(--c-blue);
+}
+#colorlib-aside #colorlib-main-menu ul li a:after {
+	background-color: var(--c-blue);
+}
+.colorlib-nav-toggle i,
+.colorlib-nav-toggle i::before,
+.colorlib-nav-toggle i::after {
+	background-color: var(--c-ink);
+}
+.colorlib-nav-toggle.active i {
+	background: transparent;
+}
+
+/* Timeline (experience and education) */
+.timeline-centered:before {
+	background: var(--c-rose);
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon {
+	background: var(--c-blue);
+	color: #fff;
+	-moz-box-shadow: 0 0 0 5px var(--c-mist);
+	-webkit-box-shadow: 0 0 0 5px var(--c-mist);
+	box-shadow: 0 0 0 5px var(--c-mist);
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
+	background: var(--c-blue);
+	color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
+	background: var(--c-sky);
+	color: var(--c-ink);
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-label:after {
+	border-color: transparent var(--c-sky) transparent transparent;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-label .timeline-text {
+	color: var(--c-ink);
+}
+
+/* Badges (method tags) */
+.badge {
+	background-color: var(--c-blue) !important;
+	color: #fff;
+}
+
+/* Buttons (CV download) */
+.btn-primary {
+	background: var(--c-blue);
+	border-color: var(--c-blue);
+	color: #fff;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+	background: var(--c-rose) !important;
+	border-color: var(--c-rose) !important;
+	color: var(--c-ink);
+}
+
+/* Footer */
+footer {
+	background: var(--footer-bg);
+	color: var(--c-mist);
+}
+.col-title,
+.col-list a {
+	color: var(--c-mist);
+}
+.copyright-text p {
+	color: var(--c-mist);
+}
