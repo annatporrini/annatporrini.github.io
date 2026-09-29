@@ -1,8 +1,8 @@
 export const bio = [
   "Hello, I'm Anna Teresa Porrini!",
   "I am a Post-doctoral Researcher at the Istituto Universitario di Studi Superiori (IUSS) in Pavia, working in experimental pragmatics and developmental psycholinguistics.",
-  "I hold a PhD in Cognitive Science from the University of Trento and a Master's degree in Linguistics from the University of Siena. My doctoral research examined the role of perspective-taking and intention-reading in the processing of implicatures during childhood, adolescence and adulthood, and included a period as a visiting research student at University College London.",
-  "My research investigates how children, adolescents and adults derive pragmatic inferences, in particular scalar and ad hoc conversational implicatures, and how these processes are shaped by speaker knowledge and cooperativity, Theory of Mind and neurotype, including autism. I am also interested in developmental changes in sentence processing, with a focus on negation, argument structure and copular sentences. To address these questions, I combine self-paced reading, eye-tracking, pupillometry and acceptability judgment tasks.",
+  "I hold a PhD in Cognitive Science from the University of Trento and a Master's degree in Linguistics from the University of Siena. My doctoral research examined the role of perspective-taking and intention-reading in the derivation of implicatures during childhood, adolescence and adulthood, and included a period as a visiting research student at University College London.",
+  "My research investigates how children, adolescents and adults derive pragmatic inferences, in particular scalar and ad hoc conversational implicatures, and how these processes are shaped by speaker knowledge and cooperation. I am also interested in developmental changes in sentence processing, with a focus on negation, argument structure and copular sentences. To address these questions, I combine self-paced reading, eye-tracking, pupillometry and acceptability judgment tasks.",
 ];
 
 export const skills = [
@@ -26,10 +26,10 @@ export const talks = [
   "<strong>Nominal copular sentences: an experimental investigation in three reading paradigms</strong>, Universitat Autònoma de Barcelona (Mar 2025)",
   "<strong>Processing expletive negation: an eye-tracking study on Italian</strong>, MGK Colloquium, Goethe University Frankfurt (Jan 2025)",
   "<strong>The role of the speaker in scalar implicatures</strong>, LingLunch, UCL (Nov 2023)",
-  "<strong>The role of intentions in priming implicatures</strong>, UCL Pragmatics Reading Group (Mar 2022)",
 ];
 
 export const conferences = [
+  "<strong>Xprag.it 2026</strong>, Genoa (Septemb 2026). Poster: Some misleading information, scalar implicatures and speaker intention in adolescence",
   "<strong>Child Language Symposium</strong>, UCL, London (July 2026). Talk: Syntactic processing during reading: an eye-tracking study on children with and without dyslexia",
   "<strong>BCCCD</strong>, Budapest (January 2026). Poster: Developmental changes in the processing of verb argument structure",
   "<strong>XPrag 2025</strong>, Cambridge (September 2025). Poster: How autism and sex/gender influence perspective-taking in pragmatic inference",
