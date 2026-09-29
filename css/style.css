@@ -167,6 +167,7 @@ figure figcaption {
 }
 
 #colorlib-aside .author-img img{
+	width: 100%;
 	height: 100%; 
     object-fit: contain;
 	padding: 30px;
