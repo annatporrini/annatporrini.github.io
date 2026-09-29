@@ -1,168 +1,180 @@
 export const bio = [
   "Hello, I'm Anna Teresa Porrini!",
-  "I am currently a Research Fellow at the Istituto Universitario di Studi Superiori (IUSS) in Pavia, where I am working on a project investigating reading difficulties in childhood, under the supervision of Dr. Matteo Greco. I earned my PhD in Cognitive Science at the University of Trento. My doctoral research project focused on the role of perspective-taking and intention-reading in the processing of implicatures during childhood, adolescence and adulthood.",
-  "My academic background is mainly in the field of linguistics. I have a Master’s degree in Linguistics and Cognitive Studies from the University of Siena. Throughout the three years of my PhD, however, I have gained independence as an experimental researcher.",
-  "My current research interests are [...].",
+  "I am a Post-doctoral Researcher at the Istituto Universitario di Studi Superiori (IUSS) in Pavia, where I work on a project investigating reading difficulties in childhood, within the group led by Prof. Matteo Greco. I earned my PhD in Cognitive Science at the University of Trento, with a dissertation in experimental pragmatics on the role of perspective-taking and intention-reading in the processing of implicatures during childhood, adolescence and adulthood.",
+  "My academic background is in linguistics: I hold a Master's degree in Linguistics from the University of Siena and a Bachelor's degree in Foreign Languages and Literatures (English and German) from the University of Milan. During my PhD, which included a period as a visiting research student at UCL, I trained as an experimental researcher.",
+  "My research interests lie in experimental pragmatics and developmental psycholinguistics. I study how children, adolescents and adults derive implicatures, and how speaker knowledge, cooperativity, autism and Theory of Mind shape pragmatic inference. I also investigate sentence processing (negation, argument structure, copular sentences) using eye-tracking, self-paced reading, pupillometry and acceptability judgment tasks.",
 ];
 
 export const skills = [
-  "Porrini, A. T., Franchin, L., & Surian, L. (2025). Role of Theory of Mind in children’s derivation of ad hoc conversational implicatures. <em> Language Acquisition </em>. https://doi.org/10.1080/10489223.2025.2467806",
-  "Franchin, L., Porrini, A. T., & Surian, L. (2024). Ad-hoc conversational implicatures in two-year-olds. <em>Language Learning and Development</em> 20(3), 219-230. https://doi.org/10.1080/15475441.2023.2277468",
+  "Greco, M., D'Alesio, V., & Porrini, A. (forthcoming). Dative clitics as arguments and adjuncts: a developmental perspective on sentence processing in Italian children, adolescents, and adults. <em>Languages</em>.",
+  "Porrini, A. T., Goulston, J., Perovic, A., & Pouscoulous, N. (2026). How autism and sex influence perspective-taking in pragmatic inferences. <em>Journal of Autism and Developmental Disorders</em>. https://doi.org/10.1007/s10803-026-07420-2",
+  "Porrini, A. T., Zanollo, A., D'Alesio, V., & Greco, M. (2026). Processing standard and expletive negation: An eye-tracking study on Italian temporal and causal clauses. <em>Glossa: a journal of general linguistics</em>, 11(1). https://doi.org/10.16995/glossa.25124",
+  "Porrini, A. T., Surian, L., & Pouscoulous, N. (2025). How speaker cooperation and knowledge prime scalar implicatures. <em>Language and Cognition</em>, 17, e75. https://doi.org/10.1017/langcog.2025.10025",
+  "Porrini, A. T., D'Alesio, V., & Greco, M. (2025). Expletive negation in Italian temporal clauses: an acceptability judgment and a self-paced reading study. <em>Linguistics Vanguard</em>. https://doi.org/10.1515/lingvan-2024-0191",
+  "D'Alesio, V., Porrini, A. T., Greco, M., & Moro, A. (2025). An investigation of nominal copular sentences in three reading paradigms: acceptability judgments, self-paced reading, and eye-tracking. <em>Lingua</em>, 326, 104019. https://doi.org/10.1016/j.lingua.2025.104019",
+  "Porrini, A. T., Franchin, L., & Surian, L. (2025). Role of Theory of Mind in children's derivation of ad hoc conversational implicatures. <em>Language Acquisition</em>. https://doi.org/10.1080/10489223.2025.2467806",
+  "Franchin, L., Porrini, A. T., & Surian, L. (2024). Ad-hoc conversational implicatures in two-year-olds. <em>Language Learning and Development</em>, 20(3), 219-230. https://doi.org/10.1080/15475441.2023.2277468",
   "Porrini, A. T., & Surian, L. (2023). The investigation of quantity implicatures during typical development: a systematic review. <em>Proceedings of ELM 2</em>, 219-228. http://doi.org/10.3765/elm.2.5361",
 ];
 
 export const experience = [
   {
-    title: "Shiprocket Private Limited",
-    duration: "September 2023 - Present",
-    subtitle: "Software Engineer",
+    title: "IUSS Pavia",
+    duration: "May 2025 - Present",
+    subtitle: "Post-doctoral Researcher",
     details: [
-      "Developed a design system using Stencil and Storybook that provides consistent UI components across platforms, ensuring a cohesive design.",
-      "Developed a dynamic support ticket panel that renders subcategories based on component IDs, handling up to 100 AWBs simultaneously.",
-      "Migrated 30+ modules from AngularJS to Angular 15 using Generative AI tools, reporting directly to the VP of Engineering.",
-      "Designed and implemented advanced features such as keyboard shortcuts, improving operational efficiency by 15 percent.",
-      "Took ownership of OKRs, collaborated with the product team, and mentored two junior developers, cutting their code review iterations and ensuring on-time feature delivery.",
+      "Investigating reading difficulties and syntactic processing in children with and without dyslexia, alongside developmental studies of negation and argument structure.",
+      "Supervising Master's theses (in progress) and organising the online Linguistics Seminars at IUSS.",
+      "Delivered a 5-hour course on constituency tests and phrasal structures to PhD students in Theoretical and Experimental Linguistics (October 2025).",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "AngularJs"],
-    icon: "truck ",
+    tags: ["Eye-tracking", "Self-paced reading", "R", "Developmental psycholinguistics"],
+    icon: "university",
   },
   {
-    title: "Biofourmis India Private Limited",
-    duration: "April 2022 - Jul 2023",
-    subtitle: "Software Engineer",
+    title: "Goethe University Frankfurt",
+    duration: "May 2026",
+    subtitle: "Visiting Researcher",
     details: [
-      "Spearheaded the implementation of micro-frontends using Module Federation, enabling modular and scalable architecture.",
-      "Earned the Biofourmis Bravo Award for upgrading the application to support flexible operations across multiple geographies.",
-      "Enhanced performance and user experience by integrating Twilio-Video, Countly, and NGXS WebSocket for real-time data management.",
+      "Training in pupillometry at Prof. Jacopo Torregrossa's lab, as part of an Erasmus+ for Staff programme.",
     ],
-    tags: [
-      "JavaScript",
-      "Angular",
-      "RxJS",
-      "NGXS",
-      "TypeScript",
-      "RxState",
-      "Webpack",
-      "Optimization",
-    ],
-    icon: "heartbeat",
+    tags: ["Pupillometry", "Erasmus+"],
+    icon: "eye",
   },
   {
-    title: "Novopay Solutions Private Limited",
-    duration: "June 2020 - April 2022",
-    subtitle: "Software Engineer",
+    title: "IUSS Pavia",
+    duration: "February 2024 - May 2025",
+    subtitle: "Research Fellow",
     details: [
-      "Built critical banking features including AePS services (eKYC, cash withdrawal, balance inquiry) used by over 1,00,000 retailers.",
-      "Developed QR code integration for wallet money loading, streamlining retailer workflows and reducing errors by 25 percent.",
-      "Integrated Clevertap analytics, Freshdesk ticketing, and chatbot services, enhancing user support and engagement.",
+      "Worked within the PRIN-PNRR project REAding CompreHension for inclusion (REACH), analysing and enhancing the comprehension of syntactic and semantic structures in children with linguistic fragilities (PI: Matteo Greco).",
+      "Instructor of Language Teaching at Istituto San Giorgio: 8-hour course for primary and secondary school teachers on language acquisition and development, within the EU-funded Futura PNRR project.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
-    icon: "qrcode",
+    tags: ["Eye-tracking", "Self-paced reading", "Acceptability judgments", "Child language"],
+    icon: "flask",
   },
   {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
+    title: "University College London",
+    duration: "October 2023 - November 2023",
+    subtitle: "Instructor of Experimental Pragmatics",
     details: [
-      `Designed and developed a social media post management panel, improving collaboration efficiency by 50 percent.`,
+      "Taught a 5-hour course to Master's and PhD students in the Linguistics Department, as part of the UCL Linguistics Autumn School 2023.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-    icon: "group",
+    tags: ["Experimental pragmatics", "Teaching"],
+    icon: "graduation-cap",
   },
-];
-
-export const trekking = [
-  "<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)",
-  "<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)",
-  "<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)",
-  "<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)",
-  "<strong>Vaishno Devi Trek</strong>, Jammu & Kashmir (5,200 feet)",
+  {
+    title: "Università degli Studi di Trento",
+    duration: "November 2021 - December 2021",
+    subtitle: "Instructor of Experimental Linguistics",
+    details: [
+      "Taught a 28-hour course to students of the Bachelor's degree in Psychology, as part of the PhD programme.",
+    ],
+    tags: ["Experimental linguistics", "Teaching"],
+    icon: "book",
+  },
+  {
+    title: "PTW, UK",
+    duration: "September 2020 - January 2021",
+    subtitle: "Linguistic Consultant (remote)",
+    details: [
+      "Phonetic transcription, text normalisation, proofreading and quality control.",
+    ],
+    tags: ["Phonetic transcription", "Text normalisation"],
+    icon: "language",
+  },
+  {
+    title: "Psycholinguistics Lab, University of Siena",
+    duration: "March 2019 - April 2019",
+    subtitle: "Intern",
+    details: [
+      "Internship in the Psycholinguistics Lab, tutored by Vincenzo Moscati.",
+    ],
+    tags: ["Psycholinguistics"],
+    icon: "users",
+  },
 ];
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
-    details: [],
-    tags: [
-      "Data Structures & Algorithms",
-      "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
+    title: "PhD in Cognitive Science",
+    duration: "2020 - 2024",
+    subtitle: "Università degli Studi di Trento, Rovereto (Italy)",
+    details: [
+      "Research project in experimental pragmatics. Advisors: Luca Surian, Nausicaa Pouscoulous (UCL) and Laura Franchin.",
     ],
+    tags: ["Experimental pragmatics", "Implicature", "Perspective-taking"],
     icon: "graduation-cap",
   },
   {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    title: "Visiting Research Student",
+    duration: "January 2022 - July 2022",
+    subtitle: "Department of Linguistics, UCL, London (UK)",
+    details: ["Tutor: Nausicaa Pouscoulous."],
+    tags: [],
+    icon: "university",
+  },
+  {
+    title: "Single courses in Cognitive Science",
+    duration: "2019 - 2020",
+    subtitle: "Università degli Studi di Milano",
     details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
+    tags: ["Cognitive Psychology", "Research Methodologies and Statistics"],
+    icon: "book",
+  },
+  {
+    title: "Master's Degree in Linguistics",
+    duration: "2017 - 2019",
+    subtitle: "Università degli Studi di Siena",
+    details: ["Final dissertation in Semantics."],
+    tags: ["Semantics", "Linguistics"],
+    icon: "graduation-cap",
+  },
+  {
+    title: "Bachelor's Degree in Foreign Languages and Literatures",
+    duration: "2014 - 2017",
+    subtitle: "Università degli Studi di Milano",
+    details: ["English and German."],
+    tags: ["English", "German"],
     icon: "book",
   },
 ];
 
+// NEW: not part of the original template. Needs a matching section in the HTML/JS to be displayed.
+export const talks = [
+  "<strong>Negation processing during adolescence</strong>, Goethe University Frankfurt (May 2026)",
+  "<strong>How speaker presence affects implicated meaning: an investigation across different ages and neurotypes</strong>, University of Pavia (Nov 2025); University of Neuchâtel (Nov 2024)",
+  "<strong>Speaker contribution to scalar implicature priming: a study on autistic adults</strong>, UCL Pragmatics Reading Group (Mar 2025)",
+  "<strong>Nominal copular sentences: an experimental investigation in three reading paradigms</strong>, Universitat Autònoma de Barcelona (Mar 2025)",
+  "<strong>Processing expletive negation: an eye-tracking study on Italian</strong>, MGK Colloquium, Goethe University Frankfurt (Jan 2025)",
+  "<strong>The role of the speaker in scalar implicatures</strong>, LingLunch, UCL (Nov 2023)",
+  "<strong>The role of intentions in priming implicatures</strong>, UCL Pragmatics Reading Group (Mar 2022)",
+];
+
+// NEW: not part of the original template. Needs a matching section in the HTML/JS to be displayed.
+export const conferences = [
+  "<strong>Child Language Symposium</strong>, UCL, London (July 2026). Talk: Syntactic processing during reading: an eye-tracking study on children with and without dyslexia",
+  "<strong>BCCCD</strong>, Budapest (January 2026). Poster: Developmental changes in the processing of verb argument structure",
+  "<strong>XPrag 2025</strong>, Cambridge (September 2025). Poster: How autism and sex/gender influence perspective-taking in pragmatic inference",
+  "<strong>XPRAG FEST 2025</strong>, Berlin (July 2025). Talk: How speaker knowledge and cooperative intention influence scalar implicature derivation",
+  "<strong>CGG34</strong>, Madrid (May 2025). Talk: Nominal copular sentences in three reading paradigms",
+  "<strong>AMLaP Asia 2024</strong>, Singapore (December 2024). Poster: Processing expletiveness: an eye-tracking study on negation",
+  "<strong>AMLaP 2024</strong>, Edinburgh (September 2024). Poster: The processing of expletive negation: a self-paced reading paradigm",
+  "<strong>BCCCD</strong>, Budapest (January 2024). Poster: Pre-schoolers' mental state reasoning and ad-hoc implicatures",
+  "<strong>XPragX</strong>, Paris (September 2023). Poster: Communicative context and interlocutors in scalar implicature derivation",
+  "<strong>ELM2</strong>, Philadelphia (May 2022). Talk: The investigation of quantity implicatures during typical development",
+];
+
 export const footer = [
-  //   {
-  //     label: "Dev Profiles",
-  //     data: [
-  //       {
-  //         text: "Stackoverflow",
-  //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-  //       },
-  //       {
-  //         text: "GitHub",
-  //         link: "https://github.com/vinaysomawat",
-  //       },
-  //       {
-  //         text: "LeetCode",
-  //         link: "https://leetcode.com/somawatvinay/",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     label: "Resources",
-  //     data: [
-  //       {
-  //         text: "Enable Dark/Light Mode",
-  //         func: "enableDarkMode()",
-  //       },
-  //       {
-  //         text: "Print this page",
-  //         func: "window.print()",
-  //       },
-  //       {
-  //         text: "Clone this page",
-  //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-  //       },
-  //     ],
-  //   },
   {
-    label: "Links",
+    label: "Contact",
     data: [
-      //   {
-      //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
-      //   },
-      //   {
-      //     text: "Twitter",
-      //     link: "https://twitter.com/thesigmakid",
-      //   },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
-      },
-      {
-        text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        text: "Email",
+        link: "mailto:anna.porrini@iusspavia.it",
       },
     ],
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
+    data: ["&copy; 2026 Anna Teresa Porrini"],
   },
 ];
