@@ -6,17 +6,17 @@ export const bio = [
 ];
 
 export const skills = [
-  "Porrini, A. T., Surian, L., & Pouscoulous, N. (forthcoming). The role of the speaker in scalar implicatures: Perspectives from childhood, adolescence, and adulthood. <em>Journal of Child Language</em>.",
-  "D'Alesio, V., Porrini, A. T., & Greco, M. (forthcoming). The developmental path of (expletive) negation in middle childhood and adolescence: two Self-Paced Reading experiments. <em>Journal of Child Language</em>.",
-  "Greco, M., D'Alesio, V., & Porrini, A. T. (2026). Dative clitics as arguments and adjuncts: a developmental perspective on sentence processing in Italian children, adolescents, and adults. <em>Languages</em>. https://doi.org/10.3390/languages11070146",
-  "Porrini, A. T., Goulston, J., Perovic, A., & Pouscoulous, N. (2026). How autism and sex influence perspective-taking in pragmatic inferences. <em>Journal of Autism and Developmental Disorders</em>. https://doi.org/10.1007/s10803-026-07420-2",
-  "Porrini, A. T., Zanollo, A., D'Alesio, V., & Greco, M. (2026). Processing standard and expletive negation: An eye-tracking study on Italian temporal and causal clauses. <em>Glossa: a journal of general linguistics</em>, 11(1). https://doi.org/10.16995/glossa.25124",
-  "Porrini, A. T., Surian, L., & Pouscoulous, N. (2025). How speaker cooperation and knowledge prime scalar implicatures. <em>Language and Cognition</em>, 17, e75. https://doi.org/10.1017/langcog.2025.10025",
-  "Porrini, A. T., D'Alesio, V., & Greco, M. (2025). Expletive negation in Italian temporal clauses: an acceptability judgment and a self-paced reading study. <em>Linguistics Vanguard</em>. https://doi.org/10.1515/lingvan-2024-0191",
-  "D'Alesio, V., Porrini, A. T., Greco, M., & Moro, A. (2025). An investigation of nominal copular sentences in three reading paradigms: acceptability judgments, self-paced reading, and eye-tracking. <em>Lingua</em>, 326, 104019. https://doi.org/10.1016/j.lingua.2025.104019",
-  "Porrini, A. T., Franchin, L., & Surian, L. (2025). Role of Theory of Mind in children's derivation of ad hoc conversational implicatures. <em>Language Acquisition</em>. https://doi.org/10.1080/10489223.2025.2467806",
-  "Franchin, L., Porrini, A. T., & Surian, L. (2024). Ad-hoc conversational implicatures in two-year-olds. <em>Language Learning and Development</em>, 20(3), 219-230. https://doi.org/10.1080/15475441.2023.2277468",
-  "Porrini, A. T., & Surian, L. (2023). The investigation of quantity implicatures during typical development: a systematic review. <em>Proceedings of ELM 2</em>, 219-228. http://doi.org/10.3765/elm.2.5361",
+  "<strong>Porrini, A. T.</strong>, Surian, L., & Pouscoulous, N. (forthcoming). The role of the speaker in scalar implicatures: Perspectives from childhood, adolescence, and adulthood. <em>Journal of Child Language</em>.",
+  "D'Alesio, V., <strong>Porrini, A. T.</strong>, & Greco, M. (forthcoming). The developmental path of (expletive) negation in middle childhood and adolescence: two Self-Paced Reading experiments. <em>Journal of Child Language</em>.",
+  "Greco, M., D'Alesio, V., & <strong>Porrini, A. T.</strong> (2026). Dative clitics as arguments and adjuncts: a developmental perspective on sentence processing in Italian children, adolescents, and adults. <em>Languages</em>. https://doi.org/10.3390/languages11070146",
+  "<strong>Porrini, A. T.</strong>, Goulston, J., Perovic, A., & Pouscoulous, N. (2026). How autism and sex influence perspective-taking in pragmatic inferences. <em>Journal of Autism and Developmental Disorders</em>. https://doi.org/10.1007/s10803-026-07420-2",
+  "<strong>Porrini, A. T.</strong>, Zanollo, A., D'Alesio, V., & Greco, M. (2026). Processing standard and expletive negation: An eye-tracking study on Italian temporal and causal clauses. <em>Glossa: a journal of general linguistics</em>, 11(1). https://doi.org/10.16995/glossa.25124",
+  "<strong>Porrini, A. T.</strong>, Surian, L., & Pouscoulous, N. (2025). How speaker cooperation and knowledge prime scalar implicatures. <em>Language and Cognition</em>, 17, e75. https://doi.org/10.1017/langcog.2025.10025",
+  "<strong>Porrini, A. T.</strong>, D'Alesio, V., & Greco, M. (2025). Expletive negation in Italian temporal clauses: an acceptability judgment and a self-paced reading study. <em>Linguistics Vanguard</em>. https://doi.org/10.1515/lingvan-2024-0191",
+  "D'Alesio, V., <strong>Porrini, A. T.</strong>, Greco, M., & Moro, A. (2025). An investigation of nominal copular sentences in three reading paradigms: acceptability judgments, self-paced reading, and eye-tracking. <em>Lingua</em>, 326, 104019. https://doi.org/10.1016/j.lingua.2025.104019",
+  "<strong>Porrini, A. T.</strong>, Franchin, L., & Surian, L. (2025). Role of Theory of Mind in children's derivation of ad hoc conversational implicatures. <em>Language Acquisition</em>. https://doi.org/10.1080/10489223.2025.2467806",
+  "Franchin, L., <strong>Porrini, A. T.</strong>, & Surian, L. (2024). Ad-hoc conversational implicatures in two-year-olds. <em>Language Learning and Development</em>, 20(3), 219-230. https://doi.org/10.1080/15475441.2023.2277468",
+  "<strong>Porrini, A. T.</strong>, & Surian, L. (2023). The investigation of quantity implicatures during typical development: a systematic review. <em>Proceedings of ELM 2</em>, 219-228. http://doi.org/10.3765/elm.2.5361",
 ];
 
 export const talks = [
